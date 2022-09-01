@@ -17,8 +17,5 @@ Use only terminal commands for git (you can use VS Code for editing!) :^)
 ## Files
 
 - req.html
-<<<<<<< HEAD
 - joanirmir.html
-=======
 - dragon-fire-fly.html
->>>>>>> f528c52b3217857a19ccafd95fb86938de1498ab
