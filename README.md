@@ -16,4 +16,6 @@ Use only terminal commands for git (you can use VS Code for editing!) :^)
 
 ## Files
 
-- req.html
+- req.html : I cut a part of <Style>
+- jacquesdarosa.html: I ran the file, it opened a webpage then some text on it and picture of Kitty "spinning"
+
