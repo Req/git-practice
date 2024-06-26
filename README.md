@@ -16,5 +16,6 @@ Use only terminal commands for git (you can use VS Code for editing!) :^)
 ## List of files
 
 - [Req](./req.md)
+- [Olena](OlenaShcherbina.md)
 
 Good luck, have fun!
